@@ -1,6 +1,6 @@
 # Material Design
 
-This repo contains helpful design resources for Google's Material Design.
+This repo contains helpful design resources for Google's Material Design, packed as react components.
 
 [Getting Started for Boostrap](http://materialdesignicons.com/bootstrap) - [Getting Started for Other Platforms](http://materialdesignicons.com/getting-started)
 
@@ -8,28 +8,17 @@ This repo contains helpful design resources for Google's Material Design.
 
 View at [Material Design Icons](http://materialdesignicons.com/). This repo also contains converted icons from [Google's official icon set](https://github.com/google/material-design-icons).
 
+## Usage
+
+```js
+var IconAccount = require('@p-m/mdi').account;
+
+function render() {
+    return (
+        <IconAccount/>
+    );
+}
 ```
-bower install mdi
-npm install mdi
-```
-
-[![Icons](http://templarian.com/files/material-design-icons-preview.png)](http://materialdesignicons.com/)
-
-**Note:** _SVG icons are not compressed in GitHub. Please use the icons from [Material Design Icons](http://materialdesignicons.com/) if you need inline SVG._
-
-## Contribute
-
-Please do not make pull requests against this repositiory. All icons are managed through the Material Design Icons site by the various contributors. If you want to become a contributor [read more](http://materialdesignicons.com/contribute).
-
-### Icon Suggestions
-
-Submit icon suggestions through the issue tab. Please include examples.
-
-### Expression Design (.design) and SVG
-
-[Expression Design](http://www.microsoft.com/en-us/download/details.aspx?id=36180) is a free software for designing vector assets. All icons are also provided in SVG which can be opened by most vector editors.
-
-For those designing new icons please use the templates provided as a starting point.
 
 # License
 
