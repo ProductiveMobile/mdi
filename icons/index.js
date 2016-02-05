@@ -7,7 +7,7 @@ var reFileName = /^\.\/(.*)\.svg/;
  * @returns {String}
  */
 function getComponentName(iconName) {
-  return iconName.split('-').map(function (iconNamePart) {
+  return iconName.split('-').map(function(iconNamePart) {
     return iconNamePart.charAt(0).toUpperCase() + iconNamePart.slice(1);
   }).join('');
 }
@@ -16,7 +16,7 @@ var exports = {
   icons: {}
 };
 
-requireIcons.keys().forEach(function (icons, iconFilename) {
+requireIcons.keys().forEach(function(iconFilename) {
   var iconName = reFileName.exec(iconFilename)[1];
   var iconComponent = requireIcons(iconFilename);
   var iconComponentName = getComponentName(iconName);
