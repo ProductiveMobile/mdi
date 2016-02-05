@@ -1,16 +1,7 @@
+var getComponentName = require('../lib/component-name');
 var requireIcons = require.context('./svg', false, /^\.\/.*\.svg$/);
 
 var reFileName = /^\.\/(.*)\.svg/;
-
-/**
- * @param {String} iconName
- * @returns {String}
- */
-function getComponentName(iconName) {
-  return iconName.split('-').map(function(iconNamePart) {
-    return iconNamePart.charAt(0).toUpperCase() + iconNamePart.slice(1);
-  }).join('');
-}
 
 var exports = {
   icons: {}
