@@ -18,6 +18,9 @@ module.exports = function(content) {
     'var renderSVG = ' + reactifiedSVG.toString() + '\n' +
     'var ' + iconComponentName + ' = React.createClass({' + '\n' +
     '  displayName: \'' + iconComponentName + '\',\n' +
+    '  getDefaultProps: function() {\n' +
+    '    return {\'data-test-id\': \'' + iconName + '\'};\n' +
+    '  },\n' +
     '  render: function() {' + '\n' +
     '    return renderSVG(this.props);' + '\n' +
     '  }' + '\n' +
