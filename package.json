@@ -1,6 +1,6 @@
 {
   "name": "@p-m/mdi",
-  "version": "1.2.71",
+  "version": "1.3.0",
   "description": "Dist for Material Design Webfont. This includes the Stock and Community icons in a single webfont collection.",
   "main": "index.js",
   "scripts": {
