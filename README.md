@@ -11,7 +11,7 @@ View at [Material Design Icons](http://materialdesignicons.com/). This repo also
 ## Usage
 
 ```js
-var IconAccount = require('@p-m/mdi').account;
+import {IconAccount} from '@p-m/mdi';
 
 function render() {
     return (
