@@ -18,7 +18,9 @@
     "webfont"
   ],
   "files": [
-    "index.js"
+    "index.js",
+    "index.ios.js",
+    "icons/fonts/materialdesignicons-webfont.ttf"
   ],
   "author": {
     "name": "Austin Andrews",
