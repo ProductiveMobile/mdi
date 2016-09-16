@@ -1,5 +1,1 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="24" height="24" viewBox="0 0 24.00 24.00" enable-background="new 0 0 24.00 24.00" xml:space="preserve">
-	<path fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" d="M 18.3246,7.99807L 5.67462,7.99807L 5.23262,3.99807L 18.7666,3.99807M 11.9996,18.9981C 10.3426,18.9981 8.99962,17.6551 8.99962,15.9981C 8.99962,13.9981 11.9996,10.5981 11.9996,10.5981C 11.9996,10.5981 14.9996,13.9981 14.9996,15.9981C 14.9996,17.6551 13.6566,18.9981 11.9996,18.9981 Z M 2.99962,1.99807L 5.01363,20.2311C 5.12862,21.2261 5.97362,21.9981 6.99962,21.9981L 16.9996,21.9981C 18.0246,21.9981 18.8696,21.2261 18.9856,20.2311L 20.9996,1.99807L 2.99962,1.99807 Z "/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" baseProfile="full" width="24" height="24" viewBox="0 0 24.00 24.00" xml:space="preserve"><path fill="#000" fill-opacity="1" stroke-width=".2" stroke-linejoin="round" d="M18.325 7.998H5.675l-.442-4h13.534m-6.767 15c-1.657 0-3-1.343-3-3 0-2 3-5.4 3-5.4s3 3.4 3 5.4c0 1.657-1.343 3-3 3zm-9-17L5.014 20.23C5.13 21.227 5.974 22 7 22h10c1.025 0 1.87-.772 1.986-1.767L21 2H3z"/></svg>

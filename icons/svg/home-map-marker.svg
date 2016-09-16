@@ -1,5 +1,1 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="24" height="24" viewBox="0 0 24.00 24.00" enable-background="new 0 0 24.00 24.00" xml:space="preserve">
-	<path fill="#000000" fill-opacity="1" stroke-width="1.33333" stroke-linejoin="miter" d="M 12,2.998L 2,11.998L 5,11.998L 5,19.998L 19,19.998L 19,11.998L 22,11.998L 12,2.998 Z M 12,7.6973C 14.098,7.6973 15.7988,9.399 15.7988,11.498C 15.7988,14.498 12,17.998 12,17.998C 12,17.998 8.19922,14.498 8.19922,11.498C 8.19922,9.399 9.90198,7.6973 12,7.6973 Z M 12,9.998C 11.172,9.998 10.5,10.669 10.5,11.498C 10.5,12.326 11.172,12.998 12,12.998C 12.829,12.998 13.5,12.326 13.5,11.498C 13.5,10.669 12.829,9.998 12,9.998 Z "/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" baseProfile="full" width="24" height="24" viewBox="0 0 24.00 24.00" xml:space="preserve"><path fill="#000" fill-opacity="1" stroke-width="1.333" stroke-linejoin="miter" d="M12 2.998l-10 9h3v8h14v-8h3l-10-9zm0 4.7c2.098 0 3.8 1.7 3.8 3.8 0 3-3.8 6.5-3.8 6.5s-3.8-3.5-3.8-6.5c0-2.1 1.702-3.8 3.8-3.8zm0 2.3c-.828 0-1.5.67-1.5 1.5 0 .828.672 1.5 1.5 1.5.83 0 1.5-.672 1.5-1.5 0-.83-.67-1.5-1.5-1.5z"/></svg>

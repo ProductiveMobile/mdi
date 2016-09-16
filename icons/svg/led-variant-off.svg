@@ -1,5 +1,1 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="24" height="24" viewBox="0 0 24.00 24.00" enable-background="new 0 0 24.00 24.00" xml:space="preserve">
-	<path fill="#000000" fill-opacity="1" stroke-width="1.33333" stroke-linejoin="miter" d="M 12,3C 10.0469,3 8.42693,4.401 8.07617,6.252L 16.8242,15L 18,15L 18,13L 16,13L 16,7C 16,4.7909 14.2091,3 12,3 Z M 3.27734,4L 2,5.2676L 8,11.2676L 8,13L 6,13L 6,15L 9,15L 9,21L 11,21L 11,15L 11.7324,15L 13,16.2676L 13,21L 15,21L 15,18.2676L 18.7324,22L 20,20.7227L 15,15.7227L 8,8.7227L 3.27734,4 Z "/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" baseProfile="full" width="24" height="24" viewBox="0 0 24.00 24.00" xml:space="preserve"><path fill="#000" fill-opacity="1" stroke-width="1.333" stroke-linejoin="miter" d="M12 3c-1.953 0-3.573 1.4-3.924 3.252L16.824 15H18v-2h-2V7c0-2.21-1.79-4-4-4zM3.277 4L2 5.268l6 6V13H6v2h3v6h2v-6h.732L13 16.268V21h2v-2.732L18.732 22 20 20.723l-5-5-7-7L3.277 4z"/></svg>
